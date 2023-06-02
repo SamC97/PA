@@ -28,6 +28,8 @@ Run the "merging_hands_detection_center.ipynb" and the "merging_hands_detection_
 ### Object detection (optional)
 To detect object on the frames like I did, you need to use YOLOv7. (If you need more details, everything is clearly explained in the report of the project :D)
 
+Perform the object detection on the frames saved in the "640_640_AfP" folder, on the nyx server.
+
 To do so, please follow those steps (in a Linux environnement) :
   - apt-get install wget
   - wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
