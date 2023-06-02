@@ -1,2 +1,3 @@
-# PA
-Machine learning for analyzing egocentric videos of patients during rehabilitation
+# Machine learning for analyzing egocentric videos of patients during rehabilitation
+
+TODO
